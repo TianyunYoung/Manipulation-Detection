@@ -49,10 +49,10 @@ https://github.com/PeterWang512/FALdetector
 
 https://github.com/ISICV/ManTraNet
 
-PS: There are many other code sources are not listed, you can find them from the group websites listed in next charpter
+PS: There are some other code sources are not listed, you can find them from the group websites listed in next charpter
 
-# Awasome Groups and Scholars
-1. MKlab
+# Awesome Groups and Scholars
+1.MKlab
 
 https://mklab.iti.gr/
 
@@ -110,35 +110,35 @@ http://cie.szu.edu.cn/szucie/index.php/archives/144.html
 
 
 # Related Datasets
-1. CASIA
+1.CASIA
 
 https://www.kaggle.com/sophatvathana/casia-dataset/version/1
 
-2. Columbia Splicing Dataset
+2.Columbia Splicing Dataset
 
 http://www.ee.columbia.edu/ln/dvmm/downloads/AuthSplicedDataSet/dlform.html
 
-3. PS Battle Dataset
+3.PS Battle Dataset
 
 https://github.com/dbisUnibas/PS-Battles
 
-4. Realistic Tample Dataset
+4.Realistic Tample Dataset
 
 http://kt.agh.edu.pl/~korus/downloads/dataset-realistic-tampering/
 
-5. IEEE IFS-TC Image Forensics Challenge
+5.IEEE IFS-TC Image Forensics Challenge
 
 http://ifc.recod.ic.unicamp.br/fc.website/index.py?sec=5
 
-6. Image Manipulation Dataset
+6.Image Manipulation Dataset
 
 http://www5.cs.fau.de/research/data/image-manipulation/
 
-7. Dresden 
+7.Dresden 
 
 http://forensics.inf.tu-dresden.de/ddimgdb/
 
-8. CoMoFoD 
+8.CoMoFoD 
 
 http://www.vcl.fer.hr/comofod/comofod.html
 
