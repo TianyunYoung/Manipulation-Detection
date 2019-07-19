@@ -84,7 +84,7 @@ http://www.ws.binghamton.edu/fridrich/
 
 http://www.erickee.com/
 
-9.Henny Farid
+9.Heny Farid
 
 https://farid.berkeley.edu/
 
