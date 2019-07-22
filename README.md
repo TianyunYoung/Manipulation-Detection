@@ -3,13 +3,13 @@ Tampering detection related sources
 
 ***
 # Code Source
-1.lllumination estimation based
+1.lllumination estimation
 
 https://github.com/bomb2peng/CASIA_3Dlighting
 
 https://github.com/lorecioni/ImageSplicingDetection
 
-2.Resampling and rotation detection based
+2.Resampling and rotation detection
 
 https://sites.google.com/site/rewindpolimi/downloads/tools/multimedia-resampling-footprint-detector
 
@@ -49,7 +49,7 @@ https://github.com/PeterWang512/FALdetector
 
 https://github.com/ISICV/ManTraNet
 
-PS: There are some other code sources are not listed, you can find them from the group websites listed in next charpter
+PS: There are some other code sources are not listed, you can find them from the group websites listed below.
 
 # Awesome Groups and Scholars
 1.MKlab
